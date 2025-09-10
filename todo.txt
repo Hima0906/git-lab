@@ -2,3 +2,5 @@
 "1. Write an article." 
 "2. Code." 
 "3. Study books." 
+"4. Practice chess." 
+"5. Solve puzzles." 
